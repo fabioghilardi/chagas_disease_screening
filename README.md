@@ -1,0 +1,1 @@
+This file is a dataset from several people located in rural areas of Minas Gerais - Brazil (mainly Montes Claros disctrict). All they were screened as discussed in the methodology methods of the paper.  
